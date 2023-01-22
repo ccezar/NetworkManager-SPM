@@ -1,0 +1,21 @@
+{
+    "id": "b4fe2451-00f2-4ff2-a67b-e396a35f6feb",
+    "image": "https://i.picsum.photos/id/443/300/300.jpg?hmac=5oOUDoqCvu8nac5yGHiYqVVgz-XWaQRWaRcgC-ef6Ew",
+    "name": "Nome do produto",
+    "price": "R$ 99,99",
+    "category": {
+        "id": "b4fe2451-00f2-4ff2-a67b-e396a35f6feb",
+        "image": "https://i.picsum.photos/id/688/200/300.jpg?hmac=6_iDeSdl4f6R2Lre1xFrJ9VaO8OQHMJD_PL5lEypBGI",
+        "name": "ACESSÓRIOS"
+    },
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "size": "P",
+    "condition": "usado",
+    "brand": "Baw",
+    "otherInfos": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "seller": {
+        "name": "Nome do vendedor",
+        "memberSince": "membro desde mm/yy",
+        "sales": 4793
+    }
+}

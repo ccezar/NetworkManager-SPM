@@ -1,0 +1,17 @@
+{
+    "entries": [
+        {
+            "id": "4229cf8c-50a9-4ae4-9810-06183070604e",
+            "image": "https://i.picsum.photos/id/507/200/300.jpg?hmac=v0NKvUrOWTKZuZFmMlLN_7-RdRgeF-qFLeBGXpufxgg",
+            "name": "ROUPAS"
+        }, {
+            "id": "b4fe2451-00f2-4ff2-a67b-e396a35f6feb",
+            "image": "https://i.picsum.photos/id/978/200/300.jpg?hmac=sP2_huC-v5a6cNxpdmxp1FPInoDET7j7O3GoftdaEJk",
+            "name": "ACESSÓRIOS"
+        }, {
+            "id": "0f02d981-0303-4f52-abc9-92ea09b24800",
+            "image": "https://i.picsum.photos/id/582/200/300.jpg?hmac=dU7Y_b9LUlVjAWIZ7AJRvue6QpYvaEkOFbUj75FrFAc",
+            "name": "OUTROS"
+        }
+    ]
+}

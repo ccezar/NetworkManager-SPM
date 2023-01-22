@@ -1,0 +1,118 @@
+{
+    "entries": [
+        {
+            "id": "1",
+            "image": "https://i.picsum.photos/id/1059/150/230.jpg?hmac=Lh1lxwQ4SS5oiP6zds3FrT9P-EQd-w9n0IG6O8ddjJc",
+            "name": "Produto 1",
+            "price": "R$ 11,11",
+            "category": {
+                "id": "b4fe2451-00f2-4ff2-a67b-e396a35f6feb",
+                "image": "https://i.picsum.photos/id/507/200/300.jpg?hmac=v0NKvUrOWTKZuZFmMlLN_7-RdRgeF-qFLeBGXpufxgg",
+                "name": "ACESSÓRIOS"
+            }
+        },
+        {
+            "id": "2",
+            "image": "https://i.picsum.photos/id/500/150/230.jpg?hmac=u4ats_BOhCoEe07iPLWJpDzVbof1AzEhZXaGe2TQoSo",
+            "name": "Produto 2",
+            "price": "R$ 22,22",
+            "category": {
+                "id": "b4fe2451-00f2-4ff2-a67b-e396a35f6feb",
+                "image": "https://picsum.photos/200/300",
+                "name": "ACESSÓRIOS"
+            }
+        },
+        {
+            "id": "3",
+            "image": "https://i.picsum.photos/id/757/150/230.jpg?hmac=FmL-3ZiKjlj4uap14_dzIEuwXU9fHhTpH7_MjBine54",
+            "name": "Produto 3",
+            "price": "R$ 33,33",
+            "category": {
+                "id": "b4fe2451-00f2-4ff2-a67b-e396a35f6feb",
+                "image": "https://picsum.photos/200/300",
+                "name": "ACESSÓRIOS"
+            }
+        },
+        {
+            "id": "4",
+            "image": "https://i.picsum.photos/id/198/150/230.jpg?hmac=UPaQAO8CR6Cob8FtLpHUMgORXF-tW7cgYPrIwYHZMxc",
+            "name": "Produto 4",
+            "price": "R$ 44,44",
+            "category": {
+                "id": "b4fe2451-00f2-4ff2-a67b-e396a35f6feb",
+                "image": "https://picsum.photos/200/300",
+                "name": "ACESSÓRIOS"
+            }
+        },
+        {
+            "id": "5",
+            "image": "https://i.picsum.photos/id/142/150/230.jpg?hmac=XPptnAZNDAYMZZo7HxDlIoW8Li2MGEmD3JP-UlaaBn4",
+            "name": "Produto 5",
+            "price": "R$ 55,55",
+            "category": {
+                "id": "b4fe2451-00f2-4ff2-a67b-e396a35f6feb",
+                "image": "https://picsum.photos/200/300",
+                "name": "ACESSÓRIOS"
+            }
+        },
+        {
+            "id": "6",
+            "image": "https://i.picsum.photos/id/912/150/230.jpg?hmac=BjwjfCibeeyj_ajBNcwL7aC8aWoAcN4pkuj9G7lfkW8",
+            "name": "Produto 6",
+            "price": "R$ 66,66",
+            "category": {
+                "id": "b4fe2451-00f2-4ff2-a67b-e396a35f6feb",
+                "image": "https://picsum.photos/200/300",
+                "name": "ACESSÓRIOS"
+            }
+        },
+        {
+            "id": "7",
+            "image": "https://i.picsum.photos/id/479/150/230.jpg?hmac=8_3GNzdUQPv-aOj5G6eGZ-3Enbcv9mewQr6uu3skFZU",
+            "name": "Produto 7",
+            "price": "R$ 77,77",
+            "category": {
+                "id": "b4fe2451-00f2-4ff2-a67b-e396a35f6feb",
+                "image": "https://picsum.photos/200/300",
+                "name": "ACESSÓRIOS"
+            }
+        },
+        {
+            "id": "8",
+            "image": "https://i.picsum.photos/id/863/150/230.jpg?hmac=4Acy4cdGF0kLfUiiqwP_8umU0BUHpUNM2ejJaNH1b2s",
+            "name": "Produto 8",
+            "price": "R$ 88,88",
+            "category": {
+                "id": "b4fe2451-00f2-4ff2-a67b-e396a35f6feb",
+                "image": "https://picsum.photos/200/300",
+                "name": "ACESSÓRIOS"
+            }
+        },
+        {
+            "id": "9",
+            "image": "https://i.picsum.photos/id/141/150/230.jpg?hmac=v2BcotTNcuaVQ3Vh_5RZ7rujatAdGAAvsC1kEZ3JUnU",
+            "name": "Produto 9",
+            "price": "R$ 99,99",
+            "category": {
+                "id": "b4fe2451-00f2-4ff2-a67b-e396a35f6feb",
+                "image": "https://picsum.photos/200/300",
+                "name": "ACESSÓRIOS"
+            }
+        },
+        {
+            "id": "10",
+            "image": "https://i.picsum.photos/id/117/150/230.jpg?hmac=SxaEqf6IqGMHxrEl6FFgpNEUgimIelbserG0PXmbekY",
+            "name": "Produto 10",
+            "price": "R$ 100,00",
+            "category": {
+                "id": "b4fe2451-00f2-4ff2-a67b-e396a35f6feb",
+                "image": "https://picsum.photos/200/300",
+                "name": "ACESSÓRIOS"
+            }
+        }
+    ],
+    "pagination": {
+        "page": 1,
+        "quantityEntries": 200
+    }
+}
